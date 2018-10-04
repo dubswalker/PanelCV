@@ -1,7 +1,7 @@
 
 title: My Resume
 url: 'http://junlulocky.com'
-baseurl: 'https://github.com/dubswalker/PanelCV' #change it according to your repository name
+baseurl: '/dubswalker/PanelCV' #change it according to your repository name
 # publishDir: 'dist'
 
 
